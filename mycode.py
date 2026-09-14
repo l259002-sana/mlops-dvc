@@ -52,8 +52,8 @@ if __name__ == "__main__":
     # Step 2
     save_dataframe(df)
 
-    # Step 3
-    k = 3  # Replace with your desired value of K
+    # Step 4
+    k = 4  # Replace with your desired value of K
     processed_df = process_data(k)
 
     # Display processed dataframe
