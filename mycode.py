@@ -53,7 +53,7 @@ if __name__ == "__main__":
     save_dataframe(df)
 
     # Step 4
-    k = 4  # Replace with your desired value of K
+    k = 45 # Replace with your desired value of K
     processed_df = process_data(k)
 
     # Display processed dataframe
